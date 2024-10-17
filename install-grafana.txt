@@ -34,6 +34,14 @@ cd grafana-10.1.1/bin
 http://localhost:3000/
 
 
+Default Credentials:
+Username: admin
+Password: admin (you will be prompted to change it on the first login).
+
+
+
+
+
 
 # import the dashboard to grafana
 
