@@ -2,6 +2,16 @@ Prometheus
 |
 |
 |
+Grafana
+
+
+
+
+
+Prometheus is focused on data collection, storage, and alerting for monitoring systems, while Grafana specializes in visualizing that data through interactive dashboards
+
+
+
 
 
 # run the prometheus
