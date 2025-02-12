@@ -43,6 +43,9 @@ Password: admin (you will be prompted to change it on the first login).
 
 # add the data source
 
+connection -> data source
+
+http://10.211.55.22:9090
 
 
 
