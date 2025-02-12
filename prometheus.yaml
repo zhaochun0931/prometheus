@@ -38,7 +38,7 @@ scrape_configs:
          # scheme defaults to 'http'.
 
     static_configs:
-      - targets: ['localhost:15692']
+      - targets: ['10.1.1.1:15692']
   
 
 
