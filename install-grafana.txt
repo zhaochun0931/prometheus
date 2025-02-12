@@ -41,6 +41,9 @@ Password: admin (you will be prompted to change it on the first login).
 
 
 
+# add the data source
+
+
 
 
 # import the dashboard to grafana
